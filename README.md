@@ -2,7 +2,7 @@
 
 **This is a Matlab project from my early days as a Computer Science student**
 
-_This scripts was created for the sevent semester class Image Analysis 
+_This scripts was created for the seventh semester class Image Analysis 
 and it is the final project necessary to pass the class_
 
 > #### Description of project
